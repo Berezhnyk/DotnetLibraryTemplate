@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26124.0
 MinimumVisualStudioVersion = 15.0.26124.0
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotnetLibraryTemplate.csproj", "src\DotnetLibraryTemplate.csproj.csproj", "{F9453839-8898-481E-AB84-054D17140ECF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotnetLibraryTemplate.csproj", "src\DotnetLibraryTemplate.csproj", "{F9453839-8898-481E-AB84-054D17140ECF}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotnetLibraryTemplate.Tests", "tests\DotnetLibraryTemplate.Tests.csproj", "{047342FD-228F-4889-956E-2C779A4B31EF}"
 EndProject
